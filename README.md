@@ -1,6 +1,6 @@
 # C-M-B
 Better to click on the README.md to read the sentences below.
-Congratulation! You solved the puzzle 1 and find this website. Now if you want to go further, just try to find out what the information is contained in the encoded.txt.
+Congratulations! You solved the puzzle 1 and find this website. Now if you want to go further, just try to find out what the information is contained in the encoded.txt.
 
 
 
